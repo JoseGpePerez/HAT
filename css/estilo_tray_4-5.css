@@ -1,0 +1,408 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+header{
+    /*    background: #99ffff;*/
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    height: 60px;
+    padding: 10px;
+
+}
+
+.tabla{
+    margin: auto;
+}
+
+.conte{
+      margin: auto;
+
+
+    background: #00792D;  
+}
+.colornav{
+      background: #00792D; 
+}
+
+.ciclos{
+    background:#00CC4B;
+
+    width: 110px;
+    height: 40px;
+    border: 2px solid #ffffff;
+    padding: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Segoe UI;
+     font-size: 12px;
+   
+} 
+
+
+
+
+
+.materia{
+    width: 110px;
+    height: 95px;
+    font-family: sans-serif;
+    padding: 10px;
+    padding-bottom: 5px;
+        text-align: justify;
+    font-size: 11px;
+    border: 2px solid #ffffff;
+ 
+
+}
+.materia{
+
+    -webkit-transition-duration: 0.5s;
+}
+.materia:hover{
+
+    -webkit-transform:scale(1.4); 
+}
+
+
+
+#ma1ci1{
+    background: rgb(206, 255, 255);
+}
+#ma1ci2{
+    background: rgb(206, 255, 255);
+}
+#ma1ci3{
+    background: rgb(206, 255, 255);
+}
+#ma1ci4{
+    background: rgb(206, 255, 255);
+}
+#ma1ci5{
+    background: rgb(255, 230, 153);
+}
+#ma1ci6{
+    background: rgb(206, 255, 255);
+}
+#ma1ci7{
+    background: rgb(214, 220, 228);
+}
+#ma1ci8{
+    background: rgb(27, 129, 153);
+}
+#ma1ci9{
+    background: rgb(206, 255, 255);
+}
+#ma1ci10{
+    background: rgb(27, 129, 153);
+}
+#ma1ci11{
+    background: rgb(206, 255, 255);
+}
+#ma1ci12{
+    background: rgb(206, 255, 255);
+}
+/*-------------------------------------*/
+#ma1ci13{
+    background: rgb(255, 0, 0);
+}
+#ma1ci14{
+    background: rgb(255, 0, 0);
+}
+#ma1ci15{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci16{
+    background: rgb(214, 220, 228);
+}
+
+#ma1ci17{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci18{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci19{
+    background: rgb(255, 230, 153);
+}
+
+#ma1ci20{
+    background: rgb(206, 255, 255);
+}
+#ma1ci21{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci22{
+    background: rgb(206, 255, 255);
+}
+#ma1ci23{
+    background: rgb(206, 255, 255);
+}
+/*-----------------------------*/
+#ma1ci24{
+    background: rgb(206, 255, 255);
+}
+#ma1ci25{
+    background: rgb(206, 255, 255);
+}
+#ma1ci26{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci27{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci28{
+    background: rgb(155, 222, 255);
+}
+
+#ma1ci29{
+    background: rgb(155, 222, 255);
+}
+
+#ma1ci30{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci31{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci32{
+    background: rgb(206, 255, 255);
+}
+/*-------------------------------*/
+#ma1ci33{
+    background: rgb(198, 224, 180);
+}
+
+#ma1ci34{
+    background: rgb(198, 224, 180);
+}
+
+#ma1ci35{
+    background: rgb(198, 224, 180);
+}
+
+#ma1ci36{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci37{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci38{
+    background: rgb(255, 230, 153);
+}
+
+#ma1ci39{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci40{
+    background: rgb(206, 255, 255);
+}
+/*---------------------------------*/
+
+#ma1ci41{
+    background: rgb(206, 255, 255);
+}
+
+
+#ma1ci42{
+    background: rgb(255, 204, 255);
+}
+
+#ma1ci43{
+    background: rgb(198, 224, 180);
+}
+
+#ma1ci44{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci45{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci46{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci47{
+    background: rgb(244, 176, 132);
+}
+
+#ma1ci48{
+    background: rgb(244, 176, 132);
+}
+/*-----------------------------------------*/
+#ma1ci49{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci50{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci51{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci52{
+    background: rgb(174, 170, 170);
+}
+
+#ma1ci53{
+    background: rgb(174, 170, 170);
+}
+
+#ma1ci54{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci55{
+    background: rgb(255, 106, 59);
+}
+
+#ma1ci56{
+    background: rgb(255, 106, 59);
+}
+
+/*-----------------------------------------*/
+#ma1ci57{
+    background: rgb(255, 204, 255);++
+}
+
+#ma1ci58{
+    background: rgb(206, 255, 255);
+}
+
+#ma1ci59{
+    background: rgb(206, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*encabezado de la acotacion*/
+.acota{
+    background: #ffffff;
+    padding: 1rem;
+    margin: 1rem;
+    color: #ffffff;
+
+}
+.acotacion{
+    height: 40px;
+    width: 580px;
+    background: #666666;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 4px;
+
+}
+
+/*encabezado tabla acotamiento*/
+.aco{
+    background: #666666;
+    width: 90px;
+    height: 45px;
+    border: 1px solid #ffffff;
+    padding: 5px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 12px;
+} 
+.columaco{
+
+    width: 90px;
+    height: 35px;
+    border: 1px solid #cccccc;
+    padding: 5px;
+    text-align: center;
+
+}
+#colinfoacota{
+    width: 400px;
+}
+
+#colorMNS{
+    background: rgb(206, 255, 255);
+}
+#seriada1{
+    background: rgb(255, 204, 255);
+}
+#seriada2{
+    background: rgb(214, 220, 228);
+}
+#seriada3{
+    background: rgb(174, 170, 170);--
+}
+#seriada4{
+    background: rgb(237, 90, 100);--
+}
+#seriada5{
+    background: rgb(255, 230, 153);-
+}
+#seriada6{
+    background: rgb(244, 176, 132);-
+}
+#seriada7{
+    background: rgb(198, 224, 180);-
+}
+#seriada8{
+    background: rgb(155, 222, 255);-
+}
+
+#seriada9{
+    background: rgb(65, 132, 243);-
+}
+
+#seriada10{
+    background: rgb(255, 106, 59);-
+}
